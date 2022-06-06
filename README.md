@@ -9,7 +9,7 @@ The purpose of this application is to allow to run multiple automations scripts 
 
 - **starter** application is installed in */usr/local/bin*
 - configuration folder is created in */home/user/.starter*.
-- *config.yaml* file in *~/.starter/* folder set what commands will be allowed **example:** [config.yaml](./config.yaml.template)
+- *config.yaml* file in *~/.starter/* folder set what commands will be allowed **example:** [config.yaml](./src/config.yaml.template)
 - scripts and applications to execute must be added to *~/.starter/executables*
 
 ## Example
