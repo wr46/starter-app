@@ -1,0 +1,6 @@
+- flag: a-script
+  description: Execute script A
+  exec: "a_script.sh"
+- flag: b-script
+  description: Execute script B
+  exec: "b_script.sh"
